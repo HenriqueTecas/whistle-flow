@@ -1,0 +1,10 @@
+build/
+.venv/
+vendor/
+
+# Local files
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
